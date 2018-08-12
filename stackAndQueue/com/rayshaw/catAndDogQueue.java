@@ -1,5 +1,8 @@
 package com.rayshaw;
 
+/**
+ * 猫狗队列
+ */
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
