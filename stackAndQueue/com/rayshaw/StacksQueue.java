@@ -1,5 +1,10 @@
 package com.rayshaw;
-
+/**
+ * 
+ * 用两个堆实现队列
+ * pop堆为空，才能将push堆元素pop到pop堆
+ * 
+ */
 import java.util.Stack;
 
 public class StacksQueue{

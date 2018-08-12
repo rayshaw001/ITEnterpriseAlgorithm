@@ -1,5 +1,9 @@
 package com.rayshaw;
 
+/**
+ * 仅用递归以及堆操作实现堆的转置
+ */
+
 import java.util.Stack;
 
 public class recursionStack{

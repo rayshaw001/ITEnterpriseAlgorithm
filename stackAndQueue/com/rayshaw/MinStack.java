@@ -1,5 +1,11 @@
 package com.rayshaw;
 
+/**
+ * 
+ * 获取堆中最小元素，复杂度O(1)
+ * 
+ * */
+
 import java.util.Stack;
 
 public class MinStack {
